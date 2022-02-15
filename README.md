@@ -2,7 +2,7 @@
 
 To add everything on github to your local machine:
 
-git clone <url>
+git clone git@github.com:JimBuddy-OxEng3YP/simulation.git
 
 Whenever you make changes:
 git add .
