@@ -1,0 +1,6 @@
+Symlinking /tiago_public_ws/devel/lib/libpal_statistics.so
+Symlinking /tiago_public_ws/devel/lib/libextract_rosbag_signals.so
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/pal_statistics.pc
+Symlinking /tiago_public_ws/devel/lib/python2.7/dist-packages/pal_statistics/__init__.py
+Symlinking /tiago_public_ws/devel/share/pal_statistics/cmake/pal_statisticsConfig.cmake
+Symlinking /tiago_public_ws/devel/share/pal_statistics/cmake/pal_statisticsConfig-version.cmake

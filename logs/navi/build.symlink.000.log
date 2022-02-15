@@ -1,0 +1,3 @@
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/navi.pc
+Symlinking /tiago_public_ws/devel/share/navi/cmake/naviConfig.cmake
+Symlinking /tiago_public_ws/devel/share/navi/cmake/naviConfig-version.cmake

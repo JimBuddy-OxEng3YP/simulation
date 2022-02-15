@@ -1,0 +1,4 @@
+Symlinking /tiago_public_ws/devel/lib/libbackward.so
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/backward_ros.pc
+Symlinking /tiago_public_ws/devel/share/backward_ros/cmake/backward_rosConfig.cmake
+Symlinking /tiago_public_ws/devel/share/backward_ros/cmake/backward_rosConfig-version.cmake

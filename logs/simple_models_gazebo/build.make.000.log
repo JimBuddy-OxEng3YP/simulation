@@ -1,0 +1,16 @@
+Scanning dependencies of target gazebo_zero_wheel_vel
+Scanning dependencies of target gazebo_diff_drive
+[ 12%] Building CXX object CMakeFiles/gazebo_zero_wheel_vel.dir/src/gazebo_zero_wheel_vel.cpp.o
+[ 25%] Building CXX object CMakeFiles/gazebo_diff_drive.dir/src/gazebo_diff_drive.cpp.o
+[ 37%] Linking CXX shared library /tiago_public_ws/devel/.private/simple_models_gazebo/lib/libgazebo_zero_wheel_vel.so
+[ 37%] Built target gazebo_zero_wheel_vel
+[ 50%] Linking CXX shared library /tiago_public_ws/devel/.private/simple_models_gazebo/lib/libgazebo_diff_drive.so
+[ 50%] Built target gazebo_diff_drive
+Scanning dependencies of target gazebo_four_wheel_diff_drive_plugin
+Scanning dependencies of target gazebo_diff_drive_plugin
+[ 62%] Building CXX object CMakeFiles/gazebo_four_wheel_diff_drive_plugin.dir/src/gazebo_four_wheel_diff_drive_plugin.cpp.o
+[ 75%] Building CXX object CMakeFiles/gazebo_diff_drive_plugin.dir/src/gazebo_diff_drive_plugin.cpp.o
+[ 87%] Linking CXX shared library /tiago_public_ws/devel/.private/simple_models_gazebo/lib/libgazebo_four_wheel_diff_drive_plugin.so
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/simple_models_gazebo/lib/libgazebo_diff_drive_plugin.so
+[100%] Built target gazebo_four_wheel_diff_drive_plugin
+[100%] Built target gazebo_diff_drive_plugin

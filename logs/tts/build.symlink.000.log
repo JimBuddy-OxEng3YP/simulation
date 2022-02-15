@@ -1,0 +1,3 @@
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/tts.pc
+Symlinking /tiago_public_ws/devel/share/tts/cmake/ttsConfig-version.cmake
+Symlinking /tiago_public_ws/devel/share/tts/cmake/ttsConfig.cmake

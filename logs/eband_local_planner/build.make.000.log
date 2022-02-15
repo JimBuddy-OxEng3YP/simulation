@@ -1,0 +1,13 @@
+Scanning dependencies of target eband_local_planner_gencfg
+[ 14%] Generating dynamic reconfigure files from cfg/EBandPlanner.cfg: /tiago_public_ws/devel/.private/eband_local_planner/include/eband_local_planner/EBandPlannerConfig.h /tiago_public_ws/devel/.private/eband_local_planner/lib/python2.7/dist-packages/eband_local_planner/cfg/EBandPlannerConfig.py
+Generating reconfiguration files for EBandPlanner in eband_local_planner
+Wrote header file in /tiago_public_ws/devel/.private/eband_local_planner/include/eband_local_planner/EBandPlannerConfig.h
+[ 14%] Built target eband_local_planner_gencfg
+Scanning dependencies of target eband_local_planner
+[ 28%] Building CXX object CMakeFiles/eband_local_planner.dir/src/eband_local_planner.cpp.o
+[ 42%] Building CXX object CMakeFiles/eband_local_planner.dir/src/eband_local_planner_ros.cpp.o
+[ 57%] Building CXX object CMakeFiles/eband_local_planner.dir/src/conversions_and_types.cpp.o
+[ 71%] Building CXX object CMakeFiles/eband_local_planner.dir/src/eband_visualization.cpp.o
+[ 85%] Building CXX object CMakeFiles/eband_local_planner.dir/src/eband_trajectory_controller.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/eband_local_planner/lib/libeband_local_planner.so
+[100%] Built target eband_local_planner

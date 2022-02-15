@@ -1,0 +1,5 @@
+tiago_tutorials/play_with_sensors
+/tiago_public_ws/devel/.private/play_with_sensors/cmake.lock /tiago_public_ws/devel/./cmake.lock
+/tiago_public_ws/devel/.private/play_with_sensors/lib/pkgconfig/play_with_sensors.pc /tiago_public_ws/devel/lib/pkgconfig/play_with_sensors.pc
+/tiago_public_ws/devel/.private/play_with_sensors/share/play_with_sensors/cmake/play_with_sensorsConfig.cmake /tiago_public_ws/devel/share/play_with_sensors/cmake/play_with_sensorsConfig.cmake
+/tiago_public_ws/devel/.private/play_with_sensors/share/play_with_sensors/cmake/play_with_sensorsConfig-version.cmake /tiago_public_ws/devel/share/play_with_sensors/cmake/play_with_sensorsConfig-version.cmake

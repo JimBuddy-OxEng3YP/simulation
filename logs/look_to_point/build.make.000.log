@@ -1,0 +1,4 @@
+Scanning dependencies of target look_to_point
+[ 50%] Building CXX object CMakeFiles/look_to_point.dir/src/look_to_point.cpp.o
+[100%] Linking CXX executable /tiago_public_ws/devel/.private/look_to_point/lib/look_to_point/look_to_point
+[100%] Built target look_to_point

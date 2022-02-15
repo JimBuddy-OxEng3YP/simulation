@@ -1,0 +1,8 @@
+slam_gmapping/gmapping
+/tiago_public_ws/devel/.private/gmapping/cmake.lock /tiago_public_ws/devel/./cmake.lock
+/tiago_public_ws/devel/.private/gmapping/lib/libslam_gmapping_nodelet.so /tiago_public_ws/devel/lib/libslam_gmapping_nodelet.so
+/tiago_public_ws/devel/.private/gmapping/lib/pkgconfig/gmapping.pc /tiago_public_ws/devel/lib/pkgconfig/gmapping.pc
+/tiago_public_ws/devel/.private/gmapping/lib/gmapping/slam_gmapping /tiago_public_ws/devel/lib/gmapping/slam_gmapping
+/tiago_public_ws/devel/.private/gmapping/lib/gmapping/slam_gmapping_replay /tiago_public_ws/devel/lib/gmapping/slam_gmapping_replay
+/tiago_public_ws/devel/.private/gmapping/share/gmapping/cmake/gmappingConfig.cmake /tiago_public_ws/devel/share/gmapping/cmake/gmappingConfig.cmake
+/tiago_public_ws/devel/.private/gmapping/share/gmapping/cmake/gmappingConfig-version.cmake /tiago_public_ws/devel/share/gmapping/cmake/gmappingConfig-version.cmake

@@ -1,0 +1,12 @@
+Scanning dependencies of target distance_publisher_node
+[ 16%] Building CXX object CMakeFiles/distance_publisher_node.dir/src/distance_publisher.cpp.o
+Scanning dependencies of target fake_odom_publisher
+[ 33%] Building CXX object CMakeFiles/fake_odom_publisher.dir/src/fake_odom_publisher.cpp.o
+[ 50%] Linking CXX executable /tiago_public_ws/devel/.private/robot_pose/lib/robot_pose/fake_odom_publisher
+[ 50%] Built target fake_odom_publisher
+Scanning dependencies of target robot_pose_node
+[ 66%] Building CXX object CMakeFiles/robot_pose_node.dir/src/pose_publisher.cpp.o
+[ 83%] Linking CXX executable /tiago_public_ws/devel/.private/robot_pose/lib/robot_pose/distance_publisher_node
+[ 83%] Built target distance_publisher_node
+[100%] Linking CXX executable /tiago_public_ws/devel/.private/robot_pose/lib/robot_pose/robot_pose_node
+[100%] Built target robot_pose_node

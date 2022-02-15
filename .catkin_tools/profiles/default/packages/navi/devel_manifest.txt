@@ -1,0 +1,5 @@
+navi
+/tiago_public_ws/devel/.private/navi/cmake.lock /tiago_public_ws/devel/./cmake.lock
+/tiago_public_ws/devel/.private/navi/lib/pkgconfig/navi.pc /tiago_public_ws/devel/lib/pkgconfig/navi.pc
+/tiago_public_ws/devel/.private/navi/share/navi/cmake/naviConfig.cmake /tiago_public_ws/devel/share/navi/cmake/naviConfig.cmake
+/tiago_public_ws/devel/.private/navi/share/navi/cmake/naviConfig-version.cmake /tiago_public_ws/devel/share/navi/cmake/naviConfig-version.cmake

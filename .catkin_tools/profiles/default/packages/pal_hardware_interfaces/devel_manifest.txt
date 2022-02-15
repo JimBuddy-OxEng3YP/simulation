@@ -1,0 +1,5 @@
+pal_hardware_interfaces
+/tiago_public_ws/devel/.private/pal_hardware_interfaces/cmake.lock /tiago_public_ws/devel/./cmake.lock
+/tiago_public_ws/devel/.private/pal_hardware_interfaces/lib/pkgconfig/pal_hardware_interfaces.pc /tiago_public_ws/devel/lib/pkgconfig/pal_hardware_interfaces.pc
+/tiago_public_ws/devel/.private/pal_hardware_interfaces/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig-version.cmake /tiago_public_ws/devel/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig-version.cmake
+/tiago_public_ws/devel/.private/pal_hardware_interfaces/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig.cmake /tiago_public_ws/devel/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig.cmake

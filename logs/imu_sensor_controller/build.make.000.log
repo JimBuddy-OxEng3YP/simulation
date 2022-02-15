@@ -1,0 +1,4 @@
+Scanning dependencies of target imu_sensor_controller
+[ 50%] Building CXX object CMakeFiles/imu_sensor_controller.dir/src/imu_sensor_controller.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/imu_sensor_controller/lib/libimu_sensor_controller.so
+[100%] Built target imu_sensor_controller

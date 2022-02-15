@@ -1,0 +1,49 @@
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 7.5.0
+-- The CXX compiler identification is GNU 7.5.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Using CATKIN_DEVEL_PREFIX: /tiago_public_ws/devel/.private/tiago_opencv_tutorial
+-- Using CMAKE_PREFIX_PATH: /tiago_public_ws/devel;/opt/ros/melodic
+-- This workspace overlays: /tiago_public_ws/devel;/opt/ros/melodic
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2")
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: 0
+-- catkin 0.7.29
+-- BUILD_SHARED_LIBS is on
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- Could NOT find OpenCV (missing: opencv_xfeatures2d) (found version "3.2.0")
+CMake Warning at /tiago_public_ws/src/tiago_tutorials/tiago_opencv_tutorial/CMakeLists.txt:14 (find_package):
+  Found package configuration file:
+
+    /usr/share/OpenCV/OpenCVConfig.cmake
+
+  but it set OpenCV_FOUND to FALSE so package "OpenCV" is considered to be
+  NOT FOUND.
+
+
+-- Found OpenCV: /usr (found version "3.2.0") found components:  opencv_highgui opencv_features2d opencv_calib3d
+-- tiago_opencv_tutorial: 1 messages, 0 services
+CMake Warning at /opt/ros/melodic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'system_lib' but neither
+  'system_lib_INCLUDE_DIRS' nor 'system_lib_LIBRARIES' is defined.
+Call Stack (most recent call first):
+  /opt/ros/melodic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:33 (catkin_package)
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tiago_public_ws/build/tiago_opencv_tutorial

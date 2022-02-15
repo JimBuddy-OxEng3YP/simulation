@@ -1,0 +1,5 @@
+Scanning dependencies of target position_controllers
+[ 33%] Building CXX object CMakeFiles/position_controllers.dir/src/joint_position_controller.cpp.o
+[ 66%] Building CXX object CMakeFiles/position_controllers.dir/src/joint_group_position_controller.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/position_controllers/lib/libposition_controllers.so
+[100%] Built target position_controllers

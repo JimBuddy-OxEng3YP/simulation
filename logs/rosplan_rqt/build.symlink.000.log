@@ -1,0 +1,4 @@
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/rosplan_rqt.pc
+Symlinking /tiago_public_ws/devel/lib/python2.7/dist-packages/rosplan_rqt/__init__.py
+Symlinking /tiago_public_ws/devel/share/rosplan_rqt/cmake/rosplan_rqtConfig.cmake
+Symlinking /tiago_public_ws/devel/share/rosplan_rqt/cmake/rosplan_rqtConfig-version.cmake

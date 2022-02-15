@@ -1,0 +1,4 @@
+Scanning dependencies of target joint_state_controller
+[ 50%] Building CXX object CMakeFiles/joint_state_controller.dir/src/joint_state_controller.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/joint_state_controller/lib/libjoint_state_controller.so
+[100%] Built target joint_state_controller

@@ -1,0 +1,70 @@
+Scanning dependencies of target std_srvs_generate_messages_py
+Scanning dependencies of target roscpp_generate_messages_nodejs
+Scanning dependencies of target topic_tools_generate_messages_lisp
+Scanning dependencies of target pal_statistics_msgs_generate_messages_lisp
+Scanning dependencies of target std_srvs_generate_messages_cpp
+Scanning dependencies of target topic_tools_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target pal_statistics_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target topic_tools_generate_messages_nodejs
+Scanning dependencies of target rosgraph_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+Scanning dependencies of target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+Scanning dependencies of target roscpp_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_py
+Scanning dependencies of target pal_statistics_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+Scanning dependencies of target pal_statistics_msgs_generate_messages_py
+Scanning dependencies of target std_srvs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+Scanning dependencies of target roscpp_generate_messages_lisp
+Scanning dependencies of target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target pal_statistics_msgs_generate_messages_nodejs
+Scanning dependencies of target pal_statistics_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+Scanning dependencies of target roscpp_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target pal_statistics_msgs_generate_messages_py
+Scanning dependencies of target topic_tools_generate_messages_eus
+Scanning dependencies of target topic_tools_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target pal_statistics_msgs_generate_messages_eus
+Scanning dependencies of target pal_statistics_msgs_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_py
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_eus
+Scanning dependencies of target topic_tools_generate_messages_cpp
+[  0%] Built target pal_statistics_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+Scanning dependencies of target std_srvs_generate_messages_eus
+Scanning dependencies of target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+Scanning dependencies of target std_srvs_generate_messages_lisp
+Scanning dependencies of target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target pal_statistics
+[ 16%] Building CXX object CMakeFiles/pal_statistics.dir/src/pal_statistics_utils.cpp.o
+[ 33%] Building CXX object CMakeFiles/pal_statistics.dir/src/pal_statistics_macros.cpp.o
+[ 50%] Building CXX object CMakeFiles/pal_statistics.dir/src/pal_statistics.cpp.o
+[ 66%] Linking CXX shared library /tiago_public_ws/devel/.private/pal_statistics/lib/libpal_statistics.so
+[ 66%] Built target pal_statistics
+Scanning dependencies of target extract_rosbag_signals
+[ 83%] Building CXX object CMakeFiles/extract_rosbag_signals.dir/src/extract_rosbag_signals.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/pal_statistics/lib/libextract_rosbag_signals.so
+[100%] Built target extract_rosbag_signals

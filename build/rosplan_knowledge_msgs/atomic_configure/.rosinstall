@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /tiago_public_ws/devel/.private/rosplan_knowledge_msgs/setup.sh

@@ -1,0 +1,6 @@
+rosplan/rosplan_knowledge_base
+/tiago_public_ws/devel/.private/rosplan_knowledge_base/cmake.lock /tiago_public_ws/devel/./cmake.lock
+/tiago_public_ws/devel/.private/rosplan_knowledge_base/lib/rosplan_knowledge_base/knowledgeBase /tiago_public_ws/devel/lib/rosplan_knowledge_base/knowledgeBase
+/tiago_public_ws/devel/.private/rosplan_knowledge_base/lib/pkgconfig/rosplan_knowledge_base.pc /tiago_public_ws/devel/lib/pkgconfig/rosplan_knowledge_base.pc
+/tiago_public_ws/devel/.private/rosplan_knowledge_base/share/rosplan_knowledge_base/cmake/rosplan_knowledge_baseConfig-version.cmake /tiago_public_ws/devel/share/rosplan_knowledge_base/cmake/rosplan_knowledge_baseConfig-version.cmake
+/tiago_public_ws/devel/.private/rosplan_knowledge_base/share/rosplan_knowledge_base/cmake/rosplan_knowledge_baseConfig.cmake /tiago_public_ws/devel/share/rosplan_knowledge_base/cmake/rosplan_knowledge_baseConfig.cmake

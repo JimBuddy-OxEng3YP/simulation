@@ -1,0 +1,13 @@
+Scanning dependencies of target controller_manager_tests
+[ 11%] Building CXX object CMakeFiles/controller_manager_tests.dir/src/my_robot_hw.cpp.o
+[ 22%] Building CXX object CMakeFiles/controller_manager_tests.dir/src/effort_test_controller.cpp.o
+[ 33%] Building CXX object CMakeFiles/controller_manager_tests.dir/src/vel_eff_controller.cpp.o
+[ 44%] Building CXX object CMakeFiles/controller_manager_tests.dir/src/pos_eff_controller.cpp.o
+[ 55%] Building CXX object CMakeFiles/controller_manager_tests.dir/src/pos_eff_opt_controller.cpp.o
+[ 66%] Building CXX object CMakeFiles/controller_manager_tests.dir/src/my_dummy_controller.cpp.o
+[ 77%] Linking CXX shared library /tiago_public_ws/devel/.private/controller_manager_tests/lib/libcontroller_manager_tests.so
+[ 77%] Built target controller_manager_tests
+Scanning dependencies of target dummy_app
+[ 88%] Building CXX object CMakeFiles/dummy_app.dir/src/dummy_app.cpp.o
+[100%] Linking CXX executable /tiago_public_ws/devel/.private/controller_manager_tests/lib/controller_manager_tests/dummy_app
+[100%] Built target dummy_app

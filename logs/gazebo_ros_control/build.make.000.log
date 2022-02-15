@@ -1,0 +1,12 @@
+Scanning dependencies of target gazebo_ros_control
+Scanning dependencies of target default_robot_hw_sim
+[ 12%] Building CXX object CMakeFiles/gazebo_ros_control.dir/src/gazebo_ros_control_plugin.cpp.o
+[ 25%] Building CXX object CMakeFiles/default_robot_hw_sim.dir/src/default_robot_hw_sim.cpp.o
+[ 37%] Building CXX object CMakeFiles/default_robot_hw_sim.dir/src/internal/effort_joint.cpp.o
+[ 50%] Building CXX object CMakeFiles/default_robot_hw_sim.dir/src/internal/joint_state.cpp.o
+[ 62%] Building CXX object CMakeFiles/default_robot_hw_sim.dir/src/internal/position_joint.cpp.o
+[ 75%] Building CXX object CMakeFiles/default_robot_hw_sim.dir/src/internal/velocity_joint.cpp.o
+[ 87%] Linking CXX shared library /tiago_public_ws/devel/.private/gazebo_ros_control/lib/libgazebo_ros_control.so
+[ 87%] Built target gazebo_ros_control
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/gazebo_ros_control/lib/libdefault_robot_hw_sim.so
+[100%] Built target default_robot_hw_sim

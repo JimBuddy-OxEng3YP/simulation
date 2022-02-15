@@ -1,0 +1,3 @@
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/key_teleop.pc
+Symlinking /tiago_public_ws/devel/share/key_teleop/cmake/key_teleopConfig.cmake
+Symlinking /tiago_public_ws/devel/share/key_teleop/cmake/key_teleopConfig-version.cmake

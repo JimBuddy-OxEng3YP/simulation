@@ -1,0 +1,13 @@
+navigation_layers/social_navigation_layers
+/tiago_public_ws/devel/.private/social_navigation_layers/cmake.lock /tiago_public_ws/devel/./cmake.lock
+/tiago_public_ws/devel/.private/social_navigation_layers/lib/libsocial_layers.so /tiago_public_ws/devel/lib/libsocial_layers.so
+/tiago_public_ws/devel/.private/social_navigation_layers/lib/pkgconfig/social_navigation_layers.pc /tiago_public_ws/devel/lib/pkgconfig/social_navigation_layers.pc
+/tiago_public_ws/devel/.private/social_navigation_layers/lib/python2.7/dist-packages/social_navigation_layers/__init__.py /tiago_public_ws/devel/lib/python2.7/dist-packages/social_navigation_layers/__init__.py
+/tiago_public_ws/devel/.private/social_navigation_layers/lib/python2.7/dist-packages/social_navigation_layers/cfg/ProxemicLayerConfig.py /tiago_public_ws/devel/lib/python2.7/dist-packages/social_navigation_layers/cfg/ProxemicLayerConfig.py
+/tiago_public_ws/devel/.private/social_navigation_layers/lib/python2.7/dist-packages/social_navigation_layers/cfg/__init__.py /tiago_public_ws/devel/lib/python2.7/dist-packages/social_navigation_layers/cfg/__init__.py
+/tiago_public_ws/devel/.private/social_navigation_layers/include/social_navigation_layers/ProxemicLayerConfig.h /tiago_public_ws/devel/include/social_navigation_layers/ProxemicLayerConfig.h
+/tiago_public_ws/devel/.private/social_navigation_layers/share/social_navigation_layers/cmake/social_navigation_layersConfig-version.cmake /tiago_public_ws/devel/share/social_navigation_layers/cmake/social_navigation_layersConfig-version.cmake
+/tiago_public_ws/devel/.private/social_navigation_layers/share/social_navigation_layers/cmake/social_navigation_layersConfig.cmake /tiago_public_ws/devel/share/social_navigation_layers/cmake/social_navigation_layersConfig.cmake
+/tiago_public_ws/devel/.private/social_navigation_layers/share/social_navigation_layers/docs/ProxemicLayerConfig.dox /tiago_public_ws/devel/share/social_navigation_layers/docs/ProxemicLayerConfig.dox
+/tiago_public_ws/devel/.private/social_navigation_layers/share/social_navigation_layers/docs/ProxemicLayerConfig.wikidoc /tiago_public_ws/devel/share/social_navigation_layers/docs/ProxemicLayerConfig.wikidoc
+/tiago_public_ws/devel/.private/social_navigation_layers/share/social_navigation_layers/docs/ProxemicLayerConfig-usage.dox /tiago_public_ws/devel/share/social_navigation_layers/docs/ProxemicLayerConfig-usage.dox

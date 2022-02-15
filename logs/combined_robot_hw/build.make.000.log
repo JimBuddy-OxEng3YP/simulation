@@ -1,0 +1,34 @@
+Scanning dependencies of target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+Scanning dependencies of target roscpp_generate_messages_py
+Scanning dependencies of target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+Scanning dependencies of target std_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+Scanning dependencies of target roscpp_generate_messages_nodejs
+Scanning dependencies of target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+Scanning dependencies of target rosgraph_msgs_generate_messages_lisp
+Scanning dependencies of target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+Scanning dependencies of target roscpp_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target combined_robot_hw
+[ 50%] Building CXX object CMakeFiles/combined_robot_hw.dir/src/combined_robot_hw.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/combined_robot_hw/lib/libcombined_robot_hw.so
+[100%] Built target combined_robot_hw

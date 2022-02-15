@@ -1,0 +1,5 @@
+tiago_tutorials/tts
+/tiago_public_ws/devel/.private/tts/cmake.lock /tiago_public_ws/devel/./cmake.lock
+/tiago_public_ws/devel/.private/tts/lib/pkgconfig/tts.pc /tiago_public_ws/devel/lib/pkgconfig/tts.pc
+/tiago_public_ws/devel/.private/tts/share/tts/cmake/ttsConfig-version.cmake /tiago_public_ws/devel/share/tts/cmake/ttsConfig-version.cmake
+/tiago_public_ws/devel/.private/tts/share/tts/cmake/ttsConfig.cmake /tiago_public_ws/devel/share/tts/cmake/ttsConfig.cmake

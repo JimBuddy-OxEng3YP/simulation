@@ -1,0 +1,6 @@
+Scanning dependencies of target velocity_controllers
+[ 25%] Building CXX object CMakeFiles/velocity_controllers.dir/src/joint_velocity_controller.cpp.o
+[ 50%] Building CXX object CMakeFiles/velocity_controllers.dir/src/joint_position_controller.cpp.o
+[ 75%] Building CXX object CMakeFiles/velocity_controllers.dir/src/joint_group_velocity_controller.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/velocity_controllers/lib/libvelocity_controllers.so
+[100%] Built target velocity_controllers

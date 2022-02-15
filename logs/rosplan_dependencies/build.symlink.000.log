@@ -1,0 +1,14 @@
+Symlinking /tiago_public_ws/devel/lib/libhddl_parser.so
+Symlinking /tiago_public_ws/devel/lib/libval_kcl.so
+Symlinking /tiago_public_ws/devel/lib/libppddl_parser.so
+Symlinking /tiago_public_ws/devel/lib/librddl_parser.so
+Symlinking /tiago_public_ws/devel/lib/libippc_server.so
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/rosplan_dependencies.pc
+Symlinking /tiago_public_ws/devel/include/hddl_parser/location.hh
+Symlinking /tiago_public_ws/devel/include/hddl_parser/position.hh
+Symlinking /tiago_public_ws/devel/include/hddl_parser/hddl_scanner.yacc.cpp
+Symlinking /tiago_public_ws/devel/include/hddl_parser/stack.hh
+Symlinking /tiago_public_ws/devel/include/hddl_parser/hddl_parser.tab.cpp
+Symlinking /tiago_public_ws/devel/include/hddl_parser/hddl_parser.tab.hpp
+Symlinking /tiago_public_ws/devel/share/rosplan_dependencies/cmake/rosplan_dependenciesConfig-version.cmake
+Symlinking /tiago_public_ws/devel/share/rosplan_dependencies/cmake/rosplan_dependenciesConfig.cmake

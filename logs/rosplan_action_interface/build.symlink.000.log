@@ -1,0 +1,4 @@
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/rosplan_action_interface.pc
+Symlinking /tiago_public_ws/devel/lib/python2.7/dist-packages/rosplan_action_interface/__init__.py
+Symlinking /tiago_public_ws/devel/share/rosplan_action_interface/cmake/rosplan_action_interfaceConfig.cmake
+Symlinking /tiago_public_ws/devel/share/rosplan_action_interface/cmake/rosplan_action_interfaceConfig-version.cmake

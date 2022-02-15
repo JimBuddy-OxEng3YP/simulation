@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/rosplan_knowledge_msgs_generate_messages_py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/msg/_DomainAssignment.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/msg/_ExprBase.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/msg/_ProbabilisticEffect.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/msg/_DomainInequality.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/msg/_ExprComposite.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/msg/_KnowledgeItem.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/msg/_StatusUpdate.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/msg/_DomainFormula.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/msg/_DomainOperator.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_ReloadRDDLDomainProblem.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetInstanceService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_SetInt.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_SetNamedBool.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GenerateProblemService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_KnowledgeUpdateService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainOperatorService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetEnumerableTypeService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetAttributeService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetRDDLFluentType.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainAttributeService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainOperatorDetailsService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainTypeService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_KnowledgeQueryService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainNameService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainPredicateDetailsService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetRDDLImmediateReward.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetRDDLParams.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_SetFloat.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_GetMetricService.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/_KnowledgeUpdateServiceArray.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/msg/__init__.py"
+  "/tiago_public_ws/devel/.private/rosplan_knowledge_msgs/lib/python2.7/dist-packages/rosplan_knowledge_msgs/srv/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/rosplan_knowledge_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

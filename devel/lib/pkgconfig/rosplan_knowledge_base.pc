@@ -1,0 +1,1 @@
+/tiago_public_ws/devel/.private/rosplan_knowledge_base/lib/pkgconfig/rosplan_knowledge_base.pc

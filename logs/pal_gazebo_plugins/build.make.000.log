@@ -1,0 +1,30 @@
+Scanning dependencies of target gazebo_harness
+Scanning dependencies of target gazebo_world_odometry
+Scanning dependencies of target gazebo_pal_hand
+[  7%] Building CXX object CMakeFiles/gazebo_harness.dir/src/gazebo_harness.cpp.o
+[ 14%] Building CXX object CMakeFiles/gazebo_world_odometry.dir/src/gazebo_world_odometry.cpp.o
+[ 21%] Building CXX object CMakeFiles/gazebo_pal_hand.dir/src/gazebo_pal_hand.cpp.o
+Scanning dependencies of target pal_multirobot_msgs_generate_messages_cpp
+[ 21%] Built target pal_multirobot_msgs_generate_messages_cpp
+Scanning dependencies of target gazebo_ros_forcetorque
+[ 28%] Building CXX object CMakeFiles/gazebo_ros_forcetorque.dir/src/gazebo_ros_forcetorque.cpp.o
+Scanning dependencies of target gazebo_underactuated_finger
+[ 35%] Building CXX object CMakeFiles/gazebo_underactuated_finger.dir/src/gazebo_underactuated_finger.cpp.o
+Scanning dependencies of target gazebo_attachment
+[ 42%] Building CXX object CMakeFiles/gazebo_attachment.dir/src/gazebo_attachment.cpp.o
+[ 50%] Linking CXX shared library /tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_pal_hand.so
+[ 57%] Linking CXX shared library /tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_world_odometry.so
+[ 57%] Built target gazebo_pal_hand
+Scanning dependencies of target gazebo_wifi_ap
+[ 57%] Built target gazebo_world_odometry
+[ 64%] Building CXX object CMakeFiles/gazebo_wifi_ap.dir/src/gazebo_wifi_ap.cpp.o
+[ 71%] Linking CXX shared library /tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_harness.so
+[ 71%] Built target gazebo_harness
+[ 78%] Linking CXX shared library /tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_ros_forcetorque.so
+[ 85%] Linking CXX shared library /tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_attachment.so
+[ 85%] Built target gazebo_ros_forcetorque
+[ 85%] Built target gazebo_attachment
+[ 92%] Linking CXX shared library /tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_underactuated_finger.so
+[ 92%] Built target gazebo_underactuated_finger
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/pal_gazebo_plugins/lib/libgazebo_wifi_ap.so
+[100%] Built target gazebo_wifi_ap

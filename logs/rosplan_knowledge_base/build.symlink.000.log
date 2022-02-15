@@ -1,0 +1,4 @@
+Symlinking /tiago_public_ws/devel/lib/rosplan_knowledge_base/knowledgeBase
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/rosplan_knowledge_base.pc
+Symlinking /tiago_public_ws/devel/share/rosplan_knowledge_base/cmake/rosplan_knowledge_baseConfig-version.cmake
+Symlinking /tiago_public_ws/devel/share/rosplan_knowledge_base/cmake/rosplan_knowledge_baseConfig.cmake

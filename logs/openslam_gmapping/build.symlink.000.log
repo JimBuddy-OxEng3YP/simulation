@@ -1,0 +1,9 @@
+Symlinking /tiago_public_ws/devel/lib/libsensor_odometry.so
+Symlinking /tiago_public_ws/devel/lib/libsensor_base.so
+Symlinking /tiago_public_ws/devel/lib/libgridfastslam.so
+Symlinking /tiago_public_ws/devel/lib/libutils.so
+Symlinking /tiago_public_ws/devel/lib/libsensor_range.so
+Symlinking /tiago_public_ws/devel/lib/libscanmatcher.so
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/openslam_gmapping.pc
+Symlinking /tiago_public_ws/devel/share/openslam_gmapping/cmake/openslam_gmappingConfig.cmake
+Symlinking /tiago_public_ws/devel/share/openslam_gmapping/cmake/openslam_gmappingConfig-version.cmake

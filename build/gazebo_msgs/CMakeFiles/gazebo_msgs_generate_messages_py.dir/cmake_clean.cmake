@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/gazebo_msgs_generate_messages_py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/msg/_ModelStates.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/msg/_ODEPhysics.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/msg/_WorldState.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/msg/_ModelState.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/msg/_ContactState.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/msg/_LinkStates.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/msg/_LinkState.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/msg/_ODEJointProperties.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/msg/_ContactsState.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_GetJointProperties.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_SetJointProperties.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_GetLinkState.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_SetLinkState.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_GetLightProperties.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_SpawnModel.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_ApplyBodyWrench.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_SetLinkProperties.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_SetModelState.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_GetModelProperties.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_ApplyJointEffort.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_SetJointTrajectory.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_GetPhysicsProperties.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_GetModelState.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_BodyRequest.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_JointRequest.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_GetLinkProperties.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_SetModelConfiguration.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_DeleteModel.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_SetPhysicsProperties.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_GetWorldProperties.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_SetLightProperties.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/_DeleteLight.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/msg/__init__.py"
+  "/tiago_public_ws/devel/.private/gazebo_msgs/lib/python2.7/dist-packages/gazebo_msgs/srv/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/gazebo_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

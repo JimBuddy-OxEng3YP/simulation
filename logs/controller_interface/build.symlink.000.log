@@ -1,0 +1,3 @@
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/controller_interface.pc
+Symlinking /tiago_public_ws/devel/share/controller_interface/cmake/controller_interfaceConfig.cmake
+Symlinking /tiago_public_ws/devel/share/controller_interface/cmake/controller_interfaceConfig-version.cmake

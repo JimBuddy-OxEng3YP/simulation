@@ -1,0 +1,7 @@
+Scanning dependencies of target backward
+[ 33%] Building CXX object CMakeFiles/backward.dir/src/backward.cpp.o
+Scanning dependencies of target backward_object
+[ 66%] Building CXX object CMakeFiles/backward_object.dir/src/backward.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/backward_ros/lib/libbackward.so
+[100%] Built target backward
+[100%] Built target backward_object

@@ -1,0 +1,8 @@
+Scanning dependencies of target joint_state_relay_without_nans
+[ 25%] Building CXX object CMakeFiles/joint_state_relay_without_nans.dir/src/joint_state_relay_without_nans.cpp.o
+[ 50%] Linking CXX executable /tiago_public_ws/devel/.private/joint_torque_sensor_state_controller/lib/joint_torque_sensor_state_controller/joint_state_relay_without_nans
+[ 50%] Built target joint_state_relay_without_nans
+Scanning dependencies of target joint_torque_sensor_state_controller
+[ 75%] Building CXX object CMakeFiles/joint_torque_sensor_state_controller.dir/src/joint_torque_sensor_state_controller.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/joint_torque_sensor_state_controller/lib/libjoint_torque_sensor_state_controller.so
+[100%] Built target joint_torque_sensor_state_controller

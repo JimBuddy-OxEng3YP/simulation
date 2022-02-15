@@ -1,0 +1,6 @@
+backward_ros
+/tiago_public_ws/devel/.private/backward_ros/cmake.lock /tiago_public_ws/devel/./cmake.lock
+/tiago_public_ws/devel/.private/backward_ros/lib/libbackward.so /tiago_public_ws/devel/lib/libbackward.so
+/tiago_public_ws/devel/.private/backward_ros/lib/pkgconfig/backward_ros.pc /tiago_public_ws/devel/lib/pkgconfig/backward_ros.pc
+/tiago_public_ws/devel/.private/backward_ros/share/backward_ros/cmake/backward_rosConfig-version.cmake /tiago_public_ws/devel/share/backward_ros/cmake/backward_rosConfig-version.cmake
+/tiago_public_ws/devel/.private/backward_ros/share/backward_ros/cmake/backward_rosConfig.cmake /tiago_public_ws/devel/share/backward_ros/cmake/backward_rosConfig.cmake

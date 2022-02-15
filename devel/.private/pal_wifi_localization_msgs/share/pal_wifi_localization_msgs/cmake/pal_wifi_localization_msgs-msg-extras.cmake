@@ -1,0 +1,2 @@
+set(pal_wifi_localization_msgs_MESSAGE_FILES "/tiago_public_ws/src/pal_msgs/pal_wifi_localization_msgs/msg/WifiSignalList.msg;/tiago_public_ws/src/pal_msgs/pal_wifi_localization_msgs/msg/WifiSignalMap.msg;/tiago_public_ws/src/pal_msgs/pal_wifi_localization_msgs/msg/WifiSignal.msg")
+set(pal_wifi_localization_msgs_SERVICE_FILES "/tiago_public_ws/src/pal_msgs/pal_wifi_localization_msgs/srv/GetWifiMap.srv")

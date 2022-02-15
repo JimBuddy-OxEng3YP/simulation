@@ -1,0 +1,4 @@
+Symlinking /tiago_public_ws/devel/lib/libimu_sensor_controller.so
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/imu_sensor_controller.pc
+Symlinking /tiago_public_ws/devel/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig.cmake
+Symlinking /tiago_public_ws/devel/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig-version.cmake

@@ -1,0 +1,6 @@
+Scanning dependencies of target four_wheel_steering_controller
+[ 25%] Building CXX object CMakeFiles/four_wheel_steering_controller.dir/src/four_wheel_steering_controller.cpp.o
+[ 50%] Building CXX object CMakeFiles/four_wheel_steering_controller.dir/src/odometry.cpp.o
+[ 75%] Building CXX object CMakeFiles/four_wheel_steering_controller.dir/src/speed_limiter.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/four_wheel_steering_controller/lib/libfour_wheel_steering_controller.so
+[100%] Built target four_wheel_steering_controller

@@ -1,0 +1,19 @@
+Scanning dependencies of target transmission_interface_parser
+[  7%] Building CXX object CMakeFiles/transmission_interface_parser.dir/src/transmission_parser.cpp.o
+[ 15%] Linking CXX shared library /tiago_public_ws/devel/.private/transmission_interface/lib/libtransmission_interface_parser.so
+[ 15%] Built target transmission_interface_parser
+Scanning dependencies of target transmission_interface_loader
+[ 23%] Building CXX object CMakeFiles/transmission_interface_loader.dir/src/transmission_loader.cpp.o
+[ 30%] Building CXX object CMakeFiles/transmission_interface_loader.dir/src/transmission_interface_loader.cpp.o
+[ 38%] Linking CXX shared library /tiago_public_ws/devel/.private/transmission_interface/lib/libtransmission_interface_loader.so
+[ 38%] Built target transmission_interface_loader
+Scanning dependencies of target transmission_interface_loader_plugins
+[ 46%] Building CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/simple_transmission_loader.cpp.o
+[ 53%] Building CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/differential_transmission_loader.cpp.o
+[ 61%] Building CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/four_bar_linkage_transmission_loader.cpp.o
+[ 69%] Building CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/joint_state_interface_provider.cpp.o
+[ 76%] Building CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/position_joint_interface_provider.cpp.o
+[ 84%] Building CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/velocity_joint_interface_provider.cpp.o
+[ 92%] Building CXX object CMakeFiles/transmission_interface_loader_plugins.dir/src/effort_joint_interface_provider.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/transmission_interface/lib/libtransmission_interface_loader_plugins.so
+[100%] Built target transmission_interface_loader_plugins

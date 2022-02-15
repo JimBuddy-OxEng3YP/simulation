@@ -1,0 +1,4 @@
+Symlinking /tiago_public_ws/devel/lib/libcombined_robot_hw.so
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/combined_robot_hw.pc
+Symlinking /tiago_public_ws/devel/share/combined_robot_hw/cmake/combined_robot_hwConfig.cmake
+Symlinking /tiago_public_ws/devel/share/combined_robot_hw/cmake/combined_robot_hwConfig-version.cmake

@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = "/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/BehaviourTaskAction.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/BehaviourTaskActionGoal.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/BehaviourTaskActionResult.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/BehaviourTaskActionFeedback.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/BehaviourTaskGoal.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/BehaviourTaskResult.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/BehaviourTaskFeedback.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/PresentationAction.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/PresentationActionGoal.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/PresentationActionResult.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/PresentationActionFeedback.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/PresentationGoal.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/PresentationResult.msg;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg/PresentationFeedback.msg;/tiago_public_ws/src/pal_msgs/pal_behaviour_msgs/msg/BehaviourArgument.msg"
+services_str = "/tiago_public_ws/src/pal_msgs/pal_behaviour_msgs/srv/BehaviourEvent.srv"
+pkg_name = "pal_behaviour_msgs"
+dependencies_str = "std_msgs;actionlib_msgs"
+langs = "gencpp;geneus;genlisp;gennodejs;genpy"
+dep_include_paths_str = "pal_behaviour_msgs;/tiago_public_ws/devel/.private/pal_behaviour_msgs/share/pal_behaviour_msgs/msg;pal_behaviour_msgs;/tiago_public_ws/src/pal_msgs/pal_behaviour_msgs/msg;std_msgs;/opt/ros/melodic/share/std_msgs/cmake/../msg;actionlib_msgs;/opt/ros/melodic/share/actionlib_msgs/cmake/../msg"
+PYTHON_EXECUTABLE = "/usr/bin/python2"
+package_has_static_sources = '' == 'TRUE'
+genmsg_check_deps_script = "/opt/ros/melodic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"

@@ -1,0 +1,11 @@
+/tiago_public_ws/build/aruco/CMakeFiles/install/local.dir
+/tiago_public_ws/build/aruco/CMakeFiles/install.dir
+/tiago_public_ws/build/aruco/CMakeFiles/list_install_components.dir
+/tiago_public_ws/build/aruco/CMakeFiles/doxygen.dir
+/tiago_public_ws/build/aruco/CMakeFiles/install/strip.dir
+/tiago_public_ws/build/aruco/CMakeFiles/aruco.dir
+/tiago_public_ws/build/aruco/CMakeFiles/edit_cache.dir
+/tiago_public_ws/build/aruco/CMakeFiles/rebuild_cache.dir
+/tiago_public_ws/build/aruco/CMakeFiles/download_extra_data.dir
+/tiago_public_ws/build/aruco/CMakeFiles/_catkin_empty_exported_target.dir
+/tiago_public_ws/build/aruco/CMakeFiles/optimalmarkers.dir

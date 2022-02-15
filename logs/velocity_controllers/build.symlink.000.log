@@ -1,0 +1,4 @@
+Symlinking /tiago_public_ws/devel/lib/libvelocity_controllers.so
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/velocity_controllers.pc
+Symlinking /tiago_public_ws/devel/share/velocity_controllers/cmake/velocity_controllersConfig-version.cmake
+Symlinking /tiago_public_ws/devel/share/velocity_controllers/cmake/velocity_controllersConfig.cmake

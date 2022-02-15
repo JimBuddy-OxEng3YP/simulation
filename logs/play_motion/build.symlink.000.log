@@ -1,0 +1,7 @@
+Symlinking /tiago_public_ws/devel/lib/libplay_motion_helpers.so
+Symlinking /tiago_public_ws/devel/lib/play_motion/play_motion
+Symlinking /tiago_public_ws/devel/lib/play_motion/run_motion
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/play_motion.pc
+Symlinking /tiago_public_ws/devel/lib/python2.7/dist-packages/play_motion/__init__.py
+Symlinking /tiago_public_ws/devel/share/play_motion/cmake/play_motionConfig-version.cmake
+Symlinking /tiago_public_ws/devel/share/play_motion/cmake/play_motionConfig.cmake

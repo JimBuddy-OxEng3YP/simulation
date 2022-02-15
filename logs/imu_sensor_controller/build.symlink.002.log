@@ -1,0 +1,4 @@
+Linked: (/tiago_public_ws/devel/.private/imu_sensor_controller/lib/libimu_sensor_controller.so, /tiago_public_ws/devel/lib/libimu_sensor_controller.so)
+Linked: (/tiago_public_ws/devel/.private/imu_sensor_controller/lib/pkgconfig/imu_sensor_controller.pc, /tiago_public_ws/devel/lib/pkgconfig/imu_sensor_controller.pc)
+Linked: (/tiago_public_ws/devel/.private/imu_sensor_controller/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig-version.cmake, /tiago_public_ws/devel/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig-version.cmake)
+Linked: (/tiago_public_ws/devel/.private/imu_sensor_controller/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig.cmake, /tiago_public_ws/devel/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig.cmake)

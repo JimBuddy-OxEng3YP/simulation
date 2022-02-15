@@ -1,0 +1,19 @@
+/tiago_public_ws/src/gazebo_ros_pkgs/gazebo_plugins/src/gazebo_ros_vacuum_gripper.cpp: In member function ‘virtual void gazebo::GazeboRosVacuumGripper::UpdateChild()’:
+/tiago_public_ws/src/gazebo_ros_pkgs/gazebo_plugins/src/gazebo_ros_vacuum_gripper.cpp:206:59: warning: ‘void gazebo::physics::Link::SetLinearAccel(const Vector3d&)’ is deprecated [-Wdeprecated-declarations]
+         links[j]->SetLinearAccel(link_->WorldLinearAccel());
+                                                           ^
+In file included from /usr/include/gazebo-9/gazebo/physics/physics.hh:28:0,
+                 from /tiago_public_ws/src/gazebo_ros_pkgs/gazebo_plugins/include/gazebo_plugins/gazebo_ros_vacuum_gripper.h:38,
+                 from /tiago_public_ws/src/gazebo_ros_pkgs/gazebo_plugins/src/gazebo_ros_vacuum_gripper.cpp:28:
+/usr/include/gazebo-9/gazebo/physics/Link.hh:169:20: note: declared here
+       public: void SetLinearAccel(const ignition::math::Vector3d &_accel)
+                    ^~~~~~~~~~~~~~
+/tiago_public_ws/src/gazebo_ros_pkgs/gazebo_plugins/src/gazebo_ros_vacuum_gripper.cpp:207:61: warning: ‘void gazebo::physics::Link::SetAngularAccel(const Vector3d&)’ is deprecated [-Wdeprecated-declarations]
+         links[j]->SetAngularAccel(link_->WorldAngularAccel());
+                                                             ^
+In file included from /usr/include/gazebo-9/gazebo/physics/physics.hh:28:0,
+                 from /tiago_public_ws/src/gazebo_ros_pkgs/gazebo_plugins/include/gazebo_plugins/gazebo_ros_vacuum_gripper.h:38,
+                 from /tiago_public_ws/src/gazebo_ros_pkgs/gazebo_plugins/src/gazebo_ros_vacuum_gripper.cpp:28:
+/usr/include/gazebo-9/gazebo/physics/Link.hh:176:20: note: declared here
+       public: void SetAngularAccel(const ignition::math::Vector3d &_accel)
+                    ^~~~~~~~~~~~~~~

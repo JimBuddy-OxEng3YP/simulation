@@ -1,0 +1,34 @@
+Scanning dependencies of target utils
+[  4%] Building CXX object utils/CMakeFiles/utils.dir/movement.cpp.o
+[  9%] Building CXX object utils/CMakeFiles/utils.dir/stat.cpp.o
+[ 13%] Linking CXX shared library /tiago_public_ws/devel/.private/openslam_gmapping/lib/libutils.so
+[ 13%] Built target utils
+Scanning dependencies of target sensor_base
+[ 18%] Building CXX object sensor/sensor_base/CMakeFiles/sensor_base.dir/sensor.cpp.o
+[ 22%] Building CXX object sensor/sensor_base/CMakeFiles/sensor_base.dir/sensorreading.cpp.o
+[ 27%] Linking CXX shared library /tiago_public_ws/devel/.private/openslam_gmapping/lib/libsensor_base.so
+[ 27%] Built target sensor_base
+Scanning dependencies of target sensor_range
+[ 31%] Building CXX object sensor/sensor_range/CMakeFiles/sensor_range.dir/rangereading.cpp.o
+[ 36%] Building CXX object sensor/sensor_range/CMakeFiles/sensor_range.dir/rangesensor.cpp.o
+[ 40%] Linking CXX shared library /tiago_public_ws/devel/.private/openslam_gmapping/lib/libsensor_range.so
+[ 40%] Built target sensor_range
+Scanning dependencies of target sensor_odometry
+[ 45%] Building CXX object sensor/sensor_odometry/CMakeFiles/sensor_odometry.dir/odometryreading.cpp.o
+[ 50%] Building CXX object sensor/sensor_odometry/CMakeFiles/sensor_odometry.dir/odometrysensor.cpp.o
+[ 54%] Linking CXX shared library /tiago_public_ws/devel/.private/openslam_gmapping/lib/libsensor_odometry.so
+[ 54%] Built target sensor_odometry
+Scanning dependencies of target scanmatcher
+[ 59%] Building CXX object scanmatcher/CMakeFiles/scanmatcher.dir/eig3.cpp.o
+[ 63%] Building CXX object scanmatcher/CMakeFiles/scanmatcher.dir/scanmatcher.cpp.o
+[ 68%] Building CXX object scanmatcher/CMakeFiles/scanmatcher.dir/scanmatcherprocessor.cpp.o
+[ 72%] Building CXX object scanmatcher/CMakeFiles/scanmatcher.dir/smmap.cpp.o
+[ 77%] Linking CXX shared library /tiago_public_ws/devel/.private/openslam_gmapping/lib/libscanmatcher.so
+[ 77%] Built target scanmatcher
+Scanning dependencies of target gridfastslam
+[ 81%] Building CXX object gridfastslam/CMakeFiles/gridfastslam.dir/gfsreader.cpp.o
+[ 86%] Building CXX object gridfastslam/CMakeFiles/gridfastslam.dir/gridslamprocessor.cpp.o
+[ 90%] Building CXX object gridfastslam/CMakeFiles/gridfastslam.dir/gridslamprocessor_tree.cpp.o
+[ 95%] Building CXX object gridfastslam/CMakeFiles/gridfastslam.dir/motionmodel.cpp.o
+[100%] Linking CXX shared library /tiago_public_ws/devel/.private/openslam_gmapping/lib/libgridfastslam.so
+[100%] Built target gridfastslam

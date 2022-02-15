@@ -1,0 +1,3 @@
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/tiago_controller_configuration_gazebo.pc
+Symlinking /tiago_public_ws/devel/share/tiago_controller_configuration_gazebo/cmake/tiago_controller_configuration_gazeboConfig.cmake
+Symlinking /tiago_public_ws/devel/share/tiago_controller_configuration_gazebo/cmake/tiago_controller_configuration_gazeboConfig-version.cmake

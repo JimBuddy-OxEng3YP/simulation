@@ -1,0 +1,3 @@
+Symlinking /tiago_public_ws/devel/lib/pkgconfig/pal_navigation_cfg_ari.pc
+Symlinking /tiago_public_ws/devel/share/pal_navigation_cfg_ari/cmake/pal_navigation_cfg_ariConfig.cmake
+Symlinking /tiago_public_ws/devel/share/pal_navigation_cfg_ari/cmake/pal_navigation_cfg_ariConfig-version.cmake

@@ -1,0 +1,208 @@
+Scanning dependencies of target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+Scanning dependencies of target _tiago_pcl_tutorial_generate_messages_check_deps_PlaneCoefficients
+[  0%] Built target _tiago_pcl_tutorial_generate_messages_check_deps_PlaneCoefficients
+Scanning dependencies of target tiago_pcl_tutorial_gencfg
+[  4%] Generating dynamic reconfigure files from cfg/region.cfg: /tiago_public_ws/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/regionConfig.h /tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/python2.7/dist-packages/tiago_pcl_tutorial/cfg/regionConfig.py
+[  9%] Generating dynamic reconfigure files from cfg/segment.cfg: /tiago_public_ws/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/segmentConfig.h /tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/python2.7/dist-packages/tiago_pcl_tutorial/cfg/segmentConfig.py
+Generating reconfiguration files for region in tiago_pcl_tutorial
+Wrote header file in /tiago_public_ws/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/regionConfig.h
+Scanning dependencies of target tiago_pcl_tutorial
+Scanning dependencies of target tf2_msgs_generate_messages_lisp
+[  9%] Built target tf2_msgs_generate_messages_lisp
+Generating reconfiguration files for segment in tiago_pcl_tutorial
+Wrote header file in /tiago_public_ws/devel/.private/tiago_pcl_tutorial/include/tiago_pcl_tutorial/segmentConfig.h
+[  9%] Built target tiago_pcl_tutorial_gencfg
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+[  9%] Built target std_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_eus
+[  9%] Built target std_msgs_generate_messages_eus
+[  9%] Built target std_msgs_generate_messages_lisp
+[ 13%] Building CXX object CMakeFiles/tiago_pcl_tutorial.dir/src/pcl_filters.cpp.o
+Scanning dependencies of target tf2_msgs_generate_messages_nodejs
+[ 13%] Built target tf2_msgs_generate_messages_nodejs
+Scanning dependencies of target pcl_msgs_generate_messages_cpp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_lisp
+[ 13%] Built target pcl_msgs_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_cpp
+[ 13%] Built target dynamic_reconfigure_generate_messages_lisp
+[ 13%] Built target rosgraph_msgs_generate_messages_cpp
+Scanning dependencies of target topic_tools_generate_messages_cpp
+[ 13%] Built target topic_tools_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_lisp
+[ 13%] Built target rosgraph_msgs_generate_messages_lisp
+Scanning dependencies of target rosgraph_msgs_generate_messages_eus
+[ 13%] Built target rosgraph_msgs_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_eus
+[ 13%] Built target geometry_msgs_generate_messages_eus
+Scanning dependencies of target std_msgs_generate_messages_py
+[ 13%] Built target std_msgs_generate_messages_py
+Scanning dependencies of target roscpp_generate_messages_cpp
+[ 13%] Built target roscpp_generate_messages_cpp
+Scanning dependencies of target sensor_msgs_generate_messages_nodejs
+[ 13%] Built target sensor_msgs_generate_messages_nodejs
+Scanning dependencies of target actionlib_generate_messages_cpp
+[ 13%] Built target actionlib_generate_messages_cpp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_eus
+Scanning dependencies of target bond_generate_messages_lisp
+Scanning dependencies of target geometry_msgs_generate_messages_py
+[ 13%] Built target dynamic_reconfigure_generate_messages_eus
+[ 13%] Built target geometry_msgs_generate_messages_py
+[ 13%] Built target bond_generate_messages_lisp
+Scanning dependencies of target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target topic_tools_generate_messages_eus
+[ 13%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 13%] Built target topic_tools_generate_messages_eus
+Scanning dependencies of target pcl_msgs_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_py
+[ 13%] Built target pcl_msgs_generate_messages_eus
+[ 13%] Built target roscpp_generate_messages_py
+Scanning dependencies of target pcl_msgs_generate_messages_nodejs
+Scanning dependencies of target nodelet_generate_messages_nodejs
+Scanning dependencies of target sensor_msgs_generate_messages_lisp
+[ 13%] Built target pcl_msgs_generate_messages_nodejs
+[ 13%] Built target nodelet_generate_messages_nodejs
+[ 13%] Built target sensor_msgs_generate_messages_lisp
+Scanning dependencies of target std_srvs_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_lisp
+[ 13%] Built target roscpp_generate_messages_lisp
+[ 13%] Built target std_srvs_generate_messages_eus
+Scanning dependencies of target bond_generate_messages_eus
+[ 13%] Built target bond_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_nodejs
+Scanning dependencies of target nodelet_generate_messages_py
+[ 13%] Built target nodelet_generate_messages_py
+[ 13%] Built target geometry_msgs_generate_messages_nodejs
+Scanning dependencies of target sensor_msgs_generate_messages_py
+Scanning dependencies of target dynamic_reconfigure_generate_messages_cpp
+[ 13%] Built target sensor_msgs_generate_messages_py
+[ 13%] Built target dynamic_reconfigure_generate_messages_cpp
+Scanning dependencies of target tf_generate_messages_py
+Scanning dependencies of target geometry_msgs_generate_messages_lisp
+[ 13%] Built target tf_generate_messages_py
+[ 13%] Built target geometry_msgs_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_nodejs
+[ 13%] Built target roscpp_generate_messages_nodejs
+Scanning dependencies of target sensor_msgs_generate_messages_cpp
+Scanning dependencies of target sensor_msgs_generate_messages_eus
+[ 13%] Built target sensor_msgs_generate_messages_cpp
+Scanning dependencies of target pcl_ros_gencfg
+Scanning dependencies of target topic_tools_generate_messages_nodejs
+[ 13%] Built target sensor_msgs_generate_messages_eus
+[ 13%] Built target pcl_ros_gencfg
+Scanning dependencies of target actionlib_generate_messages_py
+[ 13%] Built target topic_tools_generate_messages_nodejs
+Scanning dependencies of target tf2_msgs_generate_messages_py
+[ 13%] Built target actionlib_generate_messages_py
+Scanning dependencies of target dynamic_reconfigure_generate_messages_nodejs
+Scanning dependencies of target dynamic_reconfigure_generate_messages_py
+[ 13%] Built target dynamic_reconfigure_generate_messages_nodejs
+[ 13%] Built target dynamic_reconfigure_generate_messages_py
+[ 13%] Built target tf2_msgs_generate_messages_py
+Scanning dependencies of target nodelet_generate_messages_cpp
+Scanning dependencies of target bond_generate_messages_py
+[ 13%] Built target bond_generate_messages_py
+[ 13%] Built target nodelet_generate_messages_cpp
+Scanning dependencies of target std_srvs_generate_messages_nodejs
+[ 13%] Built target std_srvs_generate_messages_nodejs
+Scanning dependencies of target geometry_msgs_generate_messages_cpp
+Scanning dependencies of target actionlib_generate_messages_lisp
+[ 13%] Built target geometry_msgs_generate_messages_cpp
+Scanning dependencies of target nodelet_generate_messages_eus
+[ 13%] Built target actionlib_generate_messages_lisp
+Scanning dependencies of target nodelet_generate_messages_lisp
+[ 13%] Built target nodelet_generate_messages_eus
+[ 13%] Built target nodelet_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_eus
+Scanning dependencies of target actionlib_msgs_generate_messages_eus
+Scanning dependencies of target rosgraph_msgs_generate_messages_py
+[ 13%] Built target roscpp_generate_messages_eus
+[ 13%] Built target rosgraph_msgs_generate_messages_py
+[ 13%] Built target actionlib_msgs_generate_messages_eus
+Scanning dependencies of target bond_generate_messages_nodejs
+Scanning dependencies of target std_srvs_generate_messages_lisp
+[ 13%] Built target bond_generate_messages_nodejs
+Scanning dependencies of target bond_generate_messages_cpp
+[ 13%] Built target std_srvs_generate_messages_lisp
+[ 13%] Built target bond_generate_messages_cpp
+Scanning dependencies of target std_srvs_generate_messages_cpp
+Scanning dependencies of target topic_tools_generate_messages_lisp
+Scanning dependencies of target tf_generate_messages_eus
+[ 13%] Built target std_srvs_generate_messages_cpp
+[ 13%] Built target topic_tools_generate_messages_lisp
+[ 13%] Built target tf_generate_messages_eus
+Scanning dependencies of target actionlib_msgs_generate_messages_cpp
+Scanning dependencies of target std_srvs_generate_messages_py
+Scanning dependencies of target tf_generate_messages_lisp
+[ 13%] Built target std_srvs_generate_messages_py
+[ 13%] Built target actionlib_msgs_generate_messages_cpp
+Scanning dependencies of target tf_generate_messages_nodejs
+[ 13%] Built target tf_generate_messages_lisp
+[ 13%] Built target tf_generate_messages_nodejs
+Scanning dependencies of target pcl_msgs_generate_messages_py
+Scanning dependencies of target pcl_msgs_generate_messages_lisp
+[ 13%] Built target pcl_msgs_generate_messages_py
+Scanning dependencies of target actionlib_generate_messages_eus
+Scanning dependencies of target tf_generate_messages_cpp
+[ 13%] Built target actionlib_generate_messages_eus
+[ 13%] Built target pcl_msgs_generate_messages_lisp
+[ 13%] Built target tf_generate_messages_cpp
+Scanning dependencies of target actionlib_msgs_generate_messages_lisp
+Scanning dependencies of target actionlib_generate_messages_nodejs
+Scanning dependencies of target topic_tools_generate_messages_py
+[ 13%] Built target topic_tools_generate_messages_py
+[ 13%] Built target actionlib_msgs_generate_messages_lisp
+Scanning dependencies of target actionlib_msgs_generate_messages_nodejs
+Scanning dependencies of target nodelet_topic_tools_gencfg
+[ 13%] Built target actionlib_generate_messages_nodejs
+[ 13%] Built target actionlib_msgs_generate_messages_nodejs
+Scanning dependencies of target actionlib_msgs_generate_messages_py
+[ 13%] Built target nodelet_topic_tools_gencfg
+Scanning dependencies of target tf2_msgs_generate_messages_cpp
+[ 13%] Built target actionlib_msgs_generate_messages_py
+[ 13%] Built target tf2_msgs_generate_messages_cpp
+Scanning dependencies of target tf2_msgs_generate_messages_eus
+Scanning dependencies of target segment_table
+Scanning dependencies of target dynamic_reconfigure_gencfg
+[ 13%] Built target tf2_msgs_generate_messages_eus
+[ 13%] Built target dynamic_reconfigure_gencfg
+Scanning dependencies of target tiago_pcl_tutorial_generate_messages_nodejs
+Scanning dependencies of target tiago_pcl_tutorial_generate_messages_cpp
+[ 18%] Generating Javascript code from tiago_pcl_tutorial/PlaneCoefficients.msg
+[ 22%] Generating C++ code from tiago_pcl_tutorial/PlaneCoefficients.msg
+[ 27%] Building CXX object CMakeFiles/segment_table.dir/src/nodes/segment_table.cpp.o
+[ 27%] Built target tiago_pcl_tutorial_generate_messages_nodejs
+Scanning dependencies of target tiago_pcl_tutorial_generate_messages_lisp
+[ 31%] Generating Lisp code from tiago_pcl_tutorial/PlaneCoefficients.msg
+[ 31%] Built target tiago_pcl_tutorial_generate_messages_lisp
+Scanning dependencies of target tiago_pcl_tutorial_generate_messages_eus
+[ 31%] Built target tiago_pcl_tutorial_generate_messages_cpp
+[ 36%] Generating EusLisp code from tiago_pcl_tutorial/PlaneCoefficients.msg
+Scanning dependencies of target tiago_pcl_tutorial_generate_messages_py
+[ 40%] Generating Python from MSG tiago_pcl_tutorial/PlaneCoefficients
+[ 45%] Generating EusLisp manifest code for tiago_pcl_tutorial
+[ 50%] Generating Python msg __init__.py for tiago_pcl_tutorial
+[ 50%] Built target tiago_pcl_tutorial_generate_messages_py
+Scanning dependencies of target detect_main_plane
+[ 54%] Building CXX object CMakeFiles/detect_main_plane.dir/src/nodes/detect_main_plane.cpp.o
+[ 54%] Built target tiago_pcl_tutorial_generate_messages_eus
+Scanning dependencies of target region_segment
+[ 59%] Building CXX object CMakeFiles/region_segment.dir/src/nodes/region_segment.cpp.o
+Scanning dependencies of target tiago_pcl_tutorial_generate_messages
+[ 59%] Built target tiago_pcl_tutorial_generate_messages
+[ 63%] Linking CXX shared library /tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/libtiago_pcl_tutorial.so
+[ 63%] Built target tiago_pcl_tutorial
+[ 68%] Linking CXX executable /tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/segment_table
+[ 72%] Linking CXX executable /tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/detect_main_plane
+Scanning dependencies of target cylinder_detector
+[ 77%] Building CXX object CMakeFiles/cylinder_detector.dir/src/nodes/cylinder_detector.cpp.o
+[ 81%] Building CXX object CMakeFiles/cylinder_detector.dir/src/tf_transforms.cpp.o
+[ 86%] Building CXX object CMakeFiles/cylinder_detector.dir/src/geometry.cpp.o
+[ 86%] Built target detect_main_plane
+[ 90%] Building CXX object CMakeFiles/cylinder_detector.dir/src/pcl_filters.cpp.o
+[ 90%] Built target segment_table
+[ 95%] Linking CXX executable /tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/region_segment
+[ 95%] Built target region_segment
+[100%] Linking CXX executable /tiago_public_ws/devel/.private/tiago_pcl_tutorial/lib/tiago_pcl_tutorial/cylinder_detector
+[100%] Built target cylinder_detector
