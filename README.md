@@ -1,7 +1,7 @@
 # 3YP TIAGo Simulation
 
 If you have never done GitHub before and need a quick guide: https://docs.github.com/en/get-started/quickstart/hello-world
-Please refer to this link before anything else
+Please refer to this link before anything else. 
 
 ## Install newest version of git regardless of Ubuntu version
 ```
@@ -18,7 +18,7 @@ Follow the steps on link: https://docs.github.com/en/authentication/connecting-t
 `git clone git@github.com:JimBuddy-OxEng3YP/simulation.git`
 
 ## To change your local repository to a branch that exists in the remote repository
-`git checkout <branchName>
+`git checkout <branchName>`
 
 ## Whenever you make changes
 ```
