@@ -35,3 +35,5 @@ git push
 git checkout -b <branchName>
 git push -u origin <branchName>
 ```
+## To run JImBUddySMASH
+...navigation/localisation
