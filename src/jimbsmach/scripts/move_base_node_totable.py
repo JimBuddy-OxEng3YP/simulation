@@ -12,7 +12,7 @@ def movebase_client():
 
    # Create an action client called "move_base" with action definition file "MoveBaseAction"
     client = actionlib.SimpleActionClient('move_base',MoveBaseAction)
- 
+
    # Waits until the action server has started up and started listening for goals.
     client.wait_for_server()
 
@@ -20,11 +20,13 @@ def movebase_client():
     goal = MoveBaseGoal()
     goal.target_pose.header.frame_id = "map"
     goal.target_pose.header.stamp = rospy.Time.now()
-   # Move 0.5 meters forward along the x axis of the "map" coordinate frame 
+   # Move 0.5 meters forward along the x axis of the "map" coordinate frame
     goal.target_pose.pose.position.x = -7
     goal.target_pose.pose.position.y = -1
    # No rotation of the mobile base frame w.r.t. map frame
     goal.target_pose.pose.orientation.w = 1.0
+   #Rotating the robot about the z axis
+    goal.target_pose.pose.orientation.z = 90
 
    # Sends the goal to the action server.
     client.send_goal(goal)
@@ -36,7 +38,7 @@ def movebase_client():
         rospy.signal_shutdown("Action server not available!")
     else:
     # Result of executing the action
-        return client.get_result()   
+        return client.get_result()
 
 # If the python node is executed as main process (sourced directly)
 if __name__ == '__main__':
