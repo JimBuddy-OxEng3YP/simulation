@@ -1,0 +1,5 @@
+jimbsmach
+/tiago_public_ws/devel/.private/jimbsmach/cmake.lock /tiago_public_ws/devel/./cmake.lock
+/tiago_public_ws/devel/.private/jimbsmach/lib/pkgconfig/jimbsmach.pc /tiago_public_ws/devel/lib/pkgconfig/jimbsmach.pc
+/tiago_public_ws/devel/.private/jimbsmach/share/jimbsmach/cmake/jimbsmachConfig.cmake /tiago_public_ws/devel/share/jimbsmach/cmake/jimbsmachConfig.cmake
+/tiago_public_ws/devel/.private/jimbsmach/share/jimbsmach/cmake/jimbsmachConfig-version.cmake /tiago_public_ws/devel/share/jimbsmach/cmake/jimbsmachConfig-version.cmake
