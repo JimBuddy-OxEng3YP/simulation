@@ -102,6 +102,7 @@ class NavigateToBin(smach.State):
 
 		while goalFlagBin == 0:
 
+<<<<<<< HEAD
 			try:
 
 				os.system('rosrun navi move_base_node_tobin.py')
@@ -121,6 +122,27 @@ class NavigateToBin(smach.State):
 				os.system(concat1)
 				time.sleep(3.1416)
 				os.system(concat2)
+=======
+            try:
+
+                os.system('rosrun navi move_base_node_tobin.py')
+
+                goalFlagBin = 1
+
+                return 'successNavBin'
+
+            except UnboundLocalError as error:
+
+                rospy.loginfo('Noise in map preventing navigation to bin. Executing spin to update map.')
+                #Rotate 360 degrees at 2 rads
+                input1 = '[0.0,0.0,0.0]'
+                input2 = '[0.0, 0.0, 2.0]'
+                concat1 = 'rostopic pub /mobile_base_controller/cmd_vel geometry_msgs/Twist -r 20 -- ' + input1 + ' ' + input2
+                concat2 = 'rostopic pub /mobile_base_controller/cmd_vel geometry_msgs/Twist -r 0 -- ' + input1 + ' ' + input1
+                os.system(concat1)
+                time.sleep(3.1416)
+                os.system(concat2)
+>>>>>>> b7b075e8a531bafaa1835f4043f771415c811405
 
 
 #Defining the 'Bottle Drop' State
