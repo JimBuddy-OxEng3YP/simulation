@@ -1,0 +1,5 @@
+jbsmach
+/tiago_public_ws/devel/.private/JBSmach/cmake.lock /tiago_public_ws/devel/./cmake.lock
+/tiago_public_ws/devel/.private/JBSmach/lib/pkgconfig/JBSmach.pc /tiago_public_ws/devel/lib/pkgconfig/JBSmach.pc
+/tiago_public_ws/devel/.private/JBSmach/share/JBSmach/cmake/JBSmachConfig.cmake /tiago_public_ws/devel/share/JBSmach/cmake/JBSmachConfig.cmake
+/tiago_public_ws/devel/.private/JBSmach/share/JBSmach/cmake/JBSmachConfig-version.cmake /tiago_public_ws/devel/share/JBSmach/cmake/JBSmachConfig-version.cmake
