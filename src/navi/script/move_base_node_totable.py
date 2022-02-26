@@ -22,7 +22,7 @@ def movebase_client():
     goal.target_pose.header.stamp = rospy.Time.now()
    # Move 0.5 meters forward along the x axis of the "map" coordinate frame 
     goal.target_pose.pose.position.x = -7
-    goal.target_pose.pose.position.y = -1
+    goal.target_pose.pose.position.y = -0.125
    # No rotation of the mobile base frame w.r.t. map frame
     goal.target_pose.pose.orientation.w = 1.0
    #rotation of robot in the map
